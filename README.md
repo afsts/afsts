@@ -6,7 +6,9 @@
 
 ###
 
-👨🏻‍🎓 Third year student of the Degree in Data Science, at ISCTE-IUL. \
+👨🏻‍🎓 Master student in Artificial Inteligence, at ISCTE-IUL. \
+📊 BSc in Data Science. \
+📄 Published Paper: [Augmented Urban Analysis (DOI)](https://doi.org/10.5281/zenodo.17333919)    
 🤖 Enthusiastic about the new topics of Artificial Intelligence, Machine Learning and Deep Learning.\
 💻 Constantly seeking out new technologies and learning about them.\
 🤝 I am open to collaborating with others on various projects, particularly those related to data science or areas that I have yet to explore.
@@ -58,6 +60,16 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  alt="vs logo"  />
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"  alt="jupyter logo"  />
 
+</div>
+
+###
+
+<h2 align="center">Published Work 📄</h2>
+
+###
+
+<div align="center">
+  <a href="https://doi.org/10.5281/zenodo.17333919"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17333919.svg" alt="DOI"></a>
 </div>
 
 ###
